@@ -7,9 +7,9 @@ I currently studying more about game and website development. I'm looking to lea
 ## Github Stats
 
 <div>
-    <a href="https://github.com/XatubaPox">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=xatubapox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xatubapox&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="https://github.com/NilloGabriel">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nillogabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nillogabriel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
 ## Social Links
