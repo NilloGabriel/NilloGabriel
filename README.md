@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![nakanoart-nakanodrawing](https://user-images.githubusercontent.com/56946465/228062135-cc4680e9-c356-4a1c-a8b2-1fd7c5549ebc.gif)
+  <img src="https://user-images.githubusercontent.com/56946465/228062135-cc4680e9-c356-4a1c-a8b2-1fd7c5549ebc.gif" alt="nakanoart-nakanodrawing" width="298" height="210" />
   
 </div>
 
