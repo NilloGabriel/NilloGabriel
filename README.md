@@ -1,20 +1,23 @@
 ### Welcome adventurers 👋.
 
-I'm Gabriel D'Nillo, a budding adventurer who has set out on a journey to discover more about the world of software development.
+I'm Gabriel D'Nillo, a budding adventurer who has embarked on a journey to explore the world of software development.
 
-I currently studying more about game and website development. I'm looking to learn more about the world of free software and open-source, mainly about, the learn in public concept.
+Currently, I am studying computer science at the Catholic University of Brasilia and aiming to delve into the world of free and open-source software, particularly the concept of "learning in public".
 
-## Github Stats
+## Detailed information
+* Name: Gabriel D'Nillo
+* Age: 23 
+* Living in: Brasília - DF
+* Stack: Java - C - NodeJS - SQL
+* Working: **Looking for an internship** 
 
-<div>
-    <a href="https://github.com/NilloGabriel">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nillogabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nillogabriel&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-    
 ## Social Links
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NilloGabriel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dnillo/)
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/XatubaPox)
-[![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/XatubaPox)
+
+## Github Stats
+
+| [![NilloGabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=NilloGabriel&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)](https://github.com/NilloGabriel?tab=repositories) | [![NilloGabriel's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NilloGabriel&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/NilloGabriel?tab=repositories) |
+|:-:|:-:|
