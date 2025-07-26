@@ -1,4 +1,10 @@
-### Welcome adventurers 👋.
+# Welcome adventurers 👋.
+
+<div align="center">
+  
+  ![nakanoart-nakanodrawing](https://user-images.githubusercontent.com/56946465/228062135-cc4680e9-c356-4a1c-a8b2-1fd7c5549ebc.gif)
+  
+</div>
 
 I'm Gabriel D'Nillo, a budding adventurer who has embarked on a journey to explore the world of software development.
 
@@ -13,9 +19,13 @@ Currently, I am studying computer science at the Catholic University of Brasilia
 
 ## Social Links
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NilloGabriel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dnillo/)
-[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/XatubaPox)
+<div align="center">
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NilloGabriel)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dnillo/)
+  [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/XatubaPox)
+  
+</div>
 
 ## Github Stats
 
